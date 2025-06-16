@@ -11,6 +11,9 @@ converts binary number to 3 digit BCD for use with 7 segment displays
 divides incoming frequency by rate and then by 2. Outputs current division count for daisychaining
 
 # seven_seg
-ddriver for displaying BCD on 7 segment display
+driver for displaying BCD on 7 segment display
+
+# rotary_enc
+driver for reading rotary encoder. Also outputs a pulse on value update. Clock input should be 10kHz or less
 
 
