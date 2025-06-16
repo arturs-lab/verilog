@@ -10,4 +10,7 @@ converts binary number to 3 digit BCD for use with 7 segment displays
 # divider
 divides incoming frequency by rate and then by 2. Outputs current division count for daisychaining
 
+# seven_seg
+ddriver for displaying BCD on 7 segment display
+
 
